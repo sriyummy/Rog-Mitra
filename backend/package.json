@@ -1,0 +1,25 @@
+{
+  "name": "rog-mitra",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriyummy/Rog-Mitra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sriyummy/Rog-Mitra/issues"
+  },
+  "homepage": "https://github.com/sriyummy/Rog-Mitra#readme",
+  "description": "Rog Mitra: The OTC Medicine dispenses based on self diagnosis",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "pg": "^8.14.1"
+  }
+}
